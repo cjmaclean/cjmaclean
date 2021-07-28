@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @cjmaclean
+- I've been programming as a hobby for many years.
 - 🌱 I’m currently learning Software Development at South Metropolitan TAFE
 
 <!---
