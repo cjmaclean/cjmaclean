@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cjmaclean
 - I've been programming as a hobby for many years.
 - I completed a Diploma of Software Development at South Metropolitan TAFE in 2021
-- I am currently studying Angular.
+- I am currently studying jQuery.
 
 <!---
 Commenting out unfilled parts of introduction
